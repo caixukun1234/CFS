@@ -14,6 +14,10 @@ This repository is the official implementation of "Robust Policy Learning for Mu
 
 Collision avoidance navigation for unmanned aerial vehicle (UAV) swarms in complex and unseen outdoor environments presents a significant challenge, as UAVs are required navigate through various obstacles and intricate backgrounds. While existing deep reinforcement learning (DRL)-based collision avoidance methods have shown promising performance, they often suffer from poor generalization, leading to degraded performance in unseen environments. To address this limitation, we investigate the root causes of weak generalization in DRL models and propose a novel causal feature selection module. This module can be integrated into the policy network to effectively filter out non-causal factors in representations, thereby minimizing the impact of spurious correlations between non-causal elements and action predictions. Experimental results demonstrate that the proposed method achieves robust navigation performance and effective collision avoidance, particularly in scenarios with unseen backgrounds and obstacles, which significantly outperforms state-of-the-art (SOTA) algorithms.
 
+### 🛩️ Demo of Base Position Correction Module
+
+![Forest Obstacle Avoidance (Third-Person View)](https://github.com/Gaofei-Han/CFS/blob/main/Forest%20Obstacle%20Avoidance%20(Third-Person%20View).gif)
+
 ## Citation
 ```
 @inproceedings{zhuang2025robust,

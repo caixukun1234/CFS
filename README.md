@@ -18,11 +18,7 @@ Collision avoidance navigation for unmanned aerial vehicle (UAV) swarms in compl
 
 ![Forest Obstacle Avoidance of Third-Person View](https://github.com/Gaofei-Han/CFS/blob/main/Forest%20Obstacle%20Avoidance%20(Third-Person%20View).gif)
 
-![Forest Obstacle Avoidance of First-Person View](https://github.com/Gaofei-Han/CFS/blob/main/Forest%20Obstacle%20Avoidance%20(First-Person%20View).gif)
-
 ![Canyon Obstacle Avoidance of Third-Person View](https://github.com/Gaofei-Han/CFS/blob/main/Canyon%20Obstacle%20Avoidance%20(Third-Person%20View).gif)
-
-![Canyon Obstacle Avoidance of First-Person View](https://github.com/Gaofei-Han/CFS/blob/main/Canyon%20Obstacle%20Avoidance%20(First-Person%20View).gif)
 
 ## Citation
 ```
